@@ -4,7 +4,7 @@ This is a implementation of the k-nearest neighbour algorithm. The algorithm is 
 
 ## Installing / Getting started
 
-Import this reporistory as a new project in eclipse.
+Import this repository as a new project in eclipse.
 
 ## Author
 Christian Högerle 
